@@ -1,5 +1,3 @@
-#常用数据库JDBC驱动程序名字及URL写法
-
 = Oracle =
 
 Add your content here.
